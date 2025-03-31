@@ -5,7 +5,7 @@ const statusText = document.getElementById('statusText');
 const balanceText = document.getElementById('balanceText');
 
 // API Configuration
-const API_BASE_URL = 'https://your-glitch-project-name.glitch.me'; // Replace with your Glitch project URL
+const API_BASE_URL = 'https://playfuldog.glitch.me'; // Replace with your Glitch project URL
 
 // State
 let walletAddress = null;
